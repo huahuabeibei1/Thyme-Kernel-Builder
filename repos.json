@@ -2,8 +2,8 @@
     {
     "kernelSource": {
       "name": "android_kernel_xiaomi_thyme",
-      "repo": "https://github.com/Rinko-Studio/android_kernel_xiaomi_thyme.git",
-      "branch": "thirteen",
+      "repo": "https://github.com/badelXia/android_kernel_xiaomi_thyme.git",
+      "branch": "main",
       "device": "thyme"
     },
     "withKernelSU": true,
