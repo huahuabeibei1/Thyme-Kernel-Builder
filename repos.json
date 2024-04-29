@@ -1,9 +1,9 @@
 [  
     {
     "kernelSource": {
-      "name": "android_kernel_xiaomi_thyme",
-      "repo": "https://github.com/badelXia/android_kernel_xiaomi_thyme.git",
-      "branch": "main",
+      "name": "kernel_xiaomi_thyme",
+      "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_thyme",
+      "branch": "thirteen",
       "device": "thyme"
     },
     "withKernelSU": true,
@@ -15,7 +15,7 @@
       },
       {
         "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "13",
+        "branch": "12",
         "name": "clang"
       }
     ],
