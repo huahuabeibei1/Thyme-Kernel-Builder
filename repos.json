@@ -2,7 +2,7 @@
     {
     "kernelSource": {
       "name": "realme_Q3s_Q3t_9-5G-Speed-AndroidS-kernel-source",
-      "repo": "https://github.com/realme-kernel-opensource/realme_Q3s_Q3t_9-5G-Speed-AndroidS-kernel-source/tree/master",
+      "repo": "https://github.com/realme-kernel-opensource/realme_Q3s_Q3t_9-5G-Speed-AndroidS-kernel-source.git",
       "branch": "master",
       "device": "RMX3461"
     },
