@@ -1,10 +1,10 @@
 [  
     {
     "kernelSource": {
-      "name": "kernel_xiaomi_thyme",
-      "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_thyme",
-      "branch": "thirteen",
-      "device": "thyme"
+      "name": "realme_Q3s_Q3t_9-5G-Speed-AndroidS-kernel-source",
+      "repo": "https://github.com/realme-kernel-opensource/realme_Q3s_Q3t_9-5G-Speed-AndroidS-kernel-source/tree/master",
+      "branch": "master",
+      "device": "RMX3461"
     },
     "withKernelSU": true,
     "toolchains": [
