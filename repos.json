@@ -1,10 +1,10 @@
 [  
     {
     "kernelSource": {
-      "name": "android_kernel_sm8350",
-      "repo": "https://github.com/Cykeek-Labs/android_kernel_sm8350.git",
-      "branch": "13",
-      "device": "rmx3461"
+      "name": "android_kernel_oplus_RMX3461",
+      "repo": "https://github.com/realme9se-trees/android_kernel_oplus_RMX3461.git",
+      "branch": "ice",
+      "device": "lahaina"
     },
     "withKernelSU": true,
     "toolchains": [
