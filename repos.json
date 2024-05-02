@@ -4,7 +4,7 @@
       "name": "android_kernel_oplus_RMX3461",
       "repo": "https://github.com/realme9se-trees/android_kernel_oplus_RMX3461",
       "branch": "ice",
-      "device": "RMX3461"
+      "device": "rmx3461"
     },
     "withKernelSU": true,
     "toolchains": [
