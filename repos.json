@@ -4,7 +4,7 @@
       "name": "kernel_oplus_RMX3461",
       "repo": "https://github.com/Dheeraj3031A/kernel_oplus_RMX3461.git",
       "branch": "ice-ksu",
-      "device": "rmx3461"
+      "device": "lahaina"
     },
     "withKernelSU": true,
     "toolchains": [
