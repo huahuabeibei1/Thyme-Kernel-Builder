@@ -1,10 +1,10 @@
 [  
     {
     "kernelSource": {
-      "name": "kernel_oplus_RMX3461",
-      "repo": "https://github.com/Dheeraj3031A/kernel_oplus_RMX3461.git",
-      "branch": "ice-ksu",
-      "device": "lahaina"
+      "name": "kernel_xiaomi_thyme",
+      "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_thyme.git",
+      "branch": "thirteen",
+      "device": "thyme"
     },
     "withKernelSU": true,
     "toolchains": [
